@@ -1,6 +1,6 @@
 ## It's-a me, Ema! 👋
 
-Tech Lead & Senior Data Engineer at Intesa Sanpaolo, where I coordinate the design and development of the core banking data platform serving 16 million customers, built on Flink, SQL and BigQuery. 
+Tech Lead & Senior Software Engineer at Intesa Sanpaolo, where I coordinate the design and development of the core banking data platform serving 16 million customers, built on Flink, SQL and BigQuery. 
 I also led the data migration strategy, designed to move 4 million customers to IsyBank, the group's new digital bank (Java, PostgreSQL, Teradata).
 
 Before that, five years at Reply. iOS Engineer (Swift) and then Tech Lead of the Vodafone Station App (2M+ downloads, Red Dot Award 2019), where I was the customer's single point of contact and led the development team. 
