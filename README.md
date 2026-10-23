@@ -14,4 +14,3 @@ M.Sc. in Computer Engineering, Politecnico di Torino. Qualified professional eng
 - [garolla.info](https://garolla.info)
 - [LinkedIn](https://www.linkedin.com/in/garolla)
 - [Reddit](https://www.reddit.com/user/EmanueleGarolla)
-- [Substack](https://emanuelegarolla.substack.com/)
